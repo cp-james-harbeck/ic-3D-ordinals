@@ -1,12 +1,15 @@
-import React from "react"
-import { MainPage } from "./MainPage";
+import React from 'react';
+import MintVRMAvatar from './MintVRMAvatar';
 
 function App() {
   return (
     <div className="App">
-      <MainPage />
+      <h1>VRM Avatar Minting</h1>
+      {/* Include the MintVRMAvatar component */}
+      <MintVRMAvatar />
+      {/* Other components and content */}
     </div>
-  )
+  );
 }
 
-export default App
+export default App;

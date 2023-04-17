@@ -13,8 +13,11 @@
     "@dfinity/candid": "0.14.0",
     "@dfinity/identity": "0.14.0",
     "@dfinity/principal": "0.14.0",
+    "@pixiv/three-vrm": "^1.0.9",
+    "js-1sat-ord": "^0.0.22",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "three": "^0.149.0"
   },
   "devDependencies": {
     "@types/node": "^16.11.6",
